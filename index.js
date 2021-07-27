@@ -17,7 +17,7 @@ const fonts = {
 //     {
 //       table: {
 //         widths: ['*', '*', 100],
-//         body: ['Nome', 'E-mail', 'Situação']
+//         body: [['Nome', 'E-mail', 'Situação']]
 //       }
 //     }
 //   ]
